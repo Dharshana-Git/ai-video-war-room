@@ -174,7 +174,3 @@ The **Generate PowerPoint Report** button produces a **12-slide dark-themed inte
 - Rate limiting: App adds small delays between API calls to avoid quota exhaustion.
 
 ---
-
-## 📄 License
-
-MIT License — built for strategic intelligence and competitive analysis.
